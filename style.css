@@ -1,0 +1,12 @@
+button{
+    position:absolute;
+    left:50%;
+    right: 50%;
+    transform:translate(-50%,-50%);
+    top:40%;
+    background:blue;
+    color:white;
+    height: 40px;
+    border-radius:20px;
+    width: 200px;
+}
